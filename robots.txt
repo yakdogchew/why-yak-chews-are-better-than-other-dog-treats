@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://yakdogchew.github.io/why-yak-chews-are-better-than-other-dog-treats/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
